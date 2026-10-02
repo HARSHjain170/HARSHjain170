@@ -7,9 +7,11 @@
 </a>
 
 <p>
-  <a href="https://github.com/HARSHjain170">GitHub</a> ·
-  <a href="mailto:harshjain17074@gmail.com">Email</a> ·
-  Ahmedabad, India
+  <a href="https://www.linkedin.com/in/harsh-jain017/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshjain17074@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/30%2B-24292F?style=for-the-badge&logo=github&logoColor=white" alt="30 plus repositories" /></a>
+  <a href="https://www.google.com/maps/search/?api=1&query=Ahmedabad%2C%20India"><img src="https://img.shields.io/badge/AHMEDABAD%2C%20INDIA-0A84D6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ahmedabad, India" /></a>
 </p>
 
 </div>
@@ -107,6 +109,7 @@ I am a data-focused developer who enjoys turning messy datasets and practical bu
 I am open to collaboration and opportunities in **Data Science, Data Analytics, Machine Learning, SQL, and Business Intelligence**.
 
 - Email: [harshjain17074@gmail.com](mailto:harshjain17074@gmail.com)
+- LinkedIn: [harsh-jain017](https://www.linkedin.com/in/harsh-jain017/)
 - GitHub: [github.com/HARSHjain170](https://github.com/HARSHjain170)
 
 <div align="center">

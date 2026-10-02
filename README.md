@@ -25,6 +25,14 @@ I am a data-focused developer who enjoys turning messy datasets and practical bu
 - I enjoy working across the full analytics journey: understanding the problem, cleaning and exploring data, building a model or dashboard, and communicating the result clearly.
 - Open to collaboration on projects involving analytics, machine learning, business intelligence, data storytelling, and practical web tools.
 
+<table>
+<tr>
+<td width="33%" valign="top"><b>Discover</b><br><sub>Understand the question, the data, and the real-world context.</sub></td>
+<td width="33%" valign="top"><b>Build</b><br><sub>Develop a practical model, analysis, dashboard, or tool.</sub></td>
+<td width="33%" valign="top"><b>Communicate</b><br><sub>Turn the result into a clear story that supports action.</sub></td>
+</tr>
+</table>
+
 ## Skills and Tools
 
 - **Data and ML:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter, Google Colab
@@ -82,9 +90,8 @@ I am a data-focused developer who enjoys turning messy datasets and practical bu
 <td width="33%" valign="top"><b>Conversion Funnel</b><br><a href="https://github.com/HARSHjain170/Funnel-">User journey analytics →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><b>School Management</b><br><a href="https://github.com/HARSHjain170/School-Management-System">Web system →</a></td>
-<td width="33%" valign="top"><b>Figma UI</b><br><a href="https://github.com/HARSHjain170/figma">Responsive components →</a></td>
-<td width="33%" valign="top"><b>Full Portfolio</b><br><a href="https://github.com/HARSHjain170?tab=repositories">All repositories →</a></td>
+<td width="50%" valign="top"><b>School Management</b><br><a href="https://github.com/HARSHjain170/School-Management-System">Web system →</a></td>
+<td width="50%" valign="top"><b>Full Portfolio</b><br><a href="https://github.com/HARSHjain170?tab=repositories">All repositories →</a></td>
 </tr>
 </table>
 

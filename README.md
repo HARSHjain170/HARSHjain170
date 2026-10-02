@@ -5,7 +5,7 @@
 # Hi there, I'm Harsh Jain 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Data+Analyst;Machine+Learning+%26+Predictive+Modeling;SQL+Analytics+%26+Power+BI+Dashboards;Turning+data+into+clear+decisions" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Building+practical+solutions;Exploring+ideas+through+projects;Turning+curiosity+into+impact" alt="Typing introduction" />
 </a>
 
 <p>
@@ -41,29 +41,59 @@
 
 ## Featured Work
 
-- [**Python Data Science Projects**](https://github.com/HARSHjain170/Pythons-Projects-) — End-to-end notebooks across HR attrition, Titanic, Netflix, wine, and other datasets.
-- [**Rainfall Prediction ML Pipeline**](https://github.com/HARSHjain170/Rainfall_Project) — Six-model classification comparison with GridSearchCV and model serialization.
-- [**Bank Loan Approval Prediction**](https://github.com/HARSHjain170/Bank-loan-Approval-prediction-) — Credit-risk classification and imbalanced-data analysis.
-- [**Hospital ER Patient Analytics**](https://github.com/HARSHjain170/Hospital-ER-Patient-) — Patient trends, SQL window functions, EDA, and Power BI KPIs.
-- [**Customer Behaviour and RFM Analysis**](https://github.com/HARSHjain170/Cutomer_behaviour_analysis) — Segmentation, lifetime value, churn indicators, and dashboarding.
-- [**Stock Price Prediction**](https://github.com/HARSHjain170/Stock-Price-Prediction) — Moving averages, technical indicators, and time-series analysis.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Rainfall Prediction ML Pipeline</h3>
+<p>Six-model classification comparison with cross-validation, hyperparameter tuning, and model serialization.</p>
+<a href="https://github.com/HARSHjain170/Rainfall_Project">View project →</a>
+</td>
+<td width="50%" valign="top">
+<h3>Bank Loan Approval Prediction</h3>
+<p>Credit-risk classification, imbalanced-data analysis, and evaluation of applicant approval patterns.</p>
+<a href="https://github.com/HARSHjain170/Bank-loan-Approval-prediction-">View project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Hospital ER Patient Analytics</h3>
+<p>Patient trends, wait-time analysis, SQL window functions, EDA, and KPI dashboard concepts.</p>
+<a href="https://github.com/HARSHjain170/Hospital-ER-Patient-">View project →</a>
+</td>
+<td width="50%" valign="top">
+<h3>Customer Behaviour and RFM</h3>
+<p>Customer segmentation, lifetime value, churn indicators, and business-focused analysis.</p>
+<a href="https://github.com/HARSHjain170/Cutomer_behaviour_analysis">View project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Python Data Science Projects</h3>
+<p>A collection of end-to-end notebooks covering HR attrition, Titanic, Netflix, wine, and more.</p>
+<a href="https://github.com/HARSHjain170/Pythons-Projects-">View project →</a>
+</td>
+<td width="50%" valign="top">
+<h3>Stock Price Prediction</h3>
+<p>Moving averages, technical indicators, and time-series trend analysis.</p>
+<a href="https://github.com/HARSHjain170/Stock-Price-Prediction">View project →</a>
+</td>
+</tr>
+</table>
 
 ## More Projects
 
-| Area | Repositories |
-|---|---|
-| **Analytics and BI** | [SQL Projects](https://github.com/HARSHjain170/SQL-Projects) · [Power BI Projects](https://github.com/HARSHjain170/Power-BI-Projects) · [Conversion Funnel Analytics](https://github.com/HARSHjain170/Funnel-) |
-| **Web and UI** | [School Management System](https://github.com/HARSHjain170/School-Management-System) · [Figma UI Implementations](https://github.com/HARSHjain170/figma) |
-| **Complete portfolio** | [View all repositories](https://github.com/HARSHjain170?tab=repositories) |
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HARSHjain170&show_icons=true&hide_border=true&theme=default&title_color=2F81F7&icon_color=2F81F7&text_color=57606A&bg_color=ffffff" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHjain170&layout=compact&hide_border=true&theme=default&title_color=2F81F7&text_color=57606A&bg_color=ffffff" height="165" alt="Top languages" />
-
-</div>
+<table>
+<tr>
+<td width="33%" valign="top"><b>SQL Projects</b><br><a href="https://github.com/HARSHjain170/SQL-Projects">12 analytics domains →</a></td>
+<td width="33%" valign="top"><b>Power BI Projects</b><br><a href="https://github.com/HARSHjain170/Power-BI-Projects">KPI dashboard suite →</a></td>
+<td width="33%" valign="top"><b>Conversion Funnel</b><br><a href="https://github.com/HARSHjain170/Funnel-">User journey analytics →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><b>School Management</b><br><a href="https://github.com/HARSHjain170/School-Management-System">Web system →</a></td>
+<td width="33%" valign="top"><b>Figma UI</b><br><a href="https://github.com/HARSHjain170/figma">Responsive components →</a></td>
+<td width="33%" valign="top"><b>Full Portfolio</b><br><a href="https://github.com/HARSHjain170?tab=repositories">All repositories →</a></td>
+</tr>
+</table>
 
 ## Certifications and Education
 

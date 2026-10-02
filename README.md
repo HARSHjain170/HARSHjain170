@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/hero.gif" alt="Animated cyberpunk data lab profile hero" width="100%" />
+
 # Hi there, I'm Harsh Jain 👋
 
 <a href="https://git.io/typing-svg">

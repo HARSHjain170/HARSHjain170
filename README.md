@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero.gif" alt="Animated cyberpunk data lab profile hero" width="100%" />
-
 # Hi there, I'm Harsh Jain 👋
 
 <a href="https://git.io/typing-svg">
@@ -9,35 +7,30 @@
 </a>
 
 <p>
-  <a href="https://github.com/HARSHjain170"><img src="https://img.shields.io/badge/GitHub-HARSHjain170-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="mailto:harshjain17074@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HARSHjain170&style=flat-square&color=2F81F7" alt="Profile views" />
+  <a href="https://github.com/HARSHjain170">GitHub</a> ·
+  <a href="mailto:harshjain17074@gmail.com">Email</a> ·
+  Ahmedabad, India
 </p>
 
 </div>
 
 ## About Me
 
-- Data Science Intern at **Deets Digital**, working with demand forecasting and inventory analytics.
-- Former Front-End Developer at **Potenz Technology**.
-- Pursuing an **MCA at G.L.S. University, Ahmedabad**; BCA graduate from Gujarat University.
-- Ranked **1st in the batch** in a Data Science certification program at Fly the Nest, Ahmedabad.
-- Interested in predictive modeling, exploratory data analysis, SQL, ETL, and business intelligence.
+I am a data-focused developer who enjoys turning messy datasets and practical business questions into clear, useful solutions. My work brings together exploratory analysis, predictive modeling, SQL problem-solving, dashboard design, and the discipline of documenting results so that insights can be understood and acted on.
 
-## Languages and Tools
+- Currently working as a **Data Science Intern at Deets Digital**, contributing to demand forecasting and inventory analytics.
+- Previously worked as a **Front-End Developer at Potenz Technology**, where I built responsive interfaces and improved user experiences across client projects.
+- Pursuing an **MCA at G.L.S. University, Ahmedabad**, after completing a BCA from Gujarat University.
+- Ranked **1st in my batch** in a Data Science certification program at Fly the Nest, Ahmedabad.
+- I enjoy working across the full analytics journey: understanding the problem, cleaning and exploring data, building a model or dashboard, and communicating the result clearly.
+- Open to collaboration on projects involving analytics, machine learning, business intelligence, data storytelling, and practical web tools.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,mysql,postgres,html,css,js,php,git,github,vscode" alt="Languages and tools" />
-  </a>
-</p>
+## Skills and Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL%20%7C%20DAX-003B57?style=flat-square" alt="SQL and DAX" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
+- **Data and ML:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter, Google Colab
+- **Analytics and BI:** SQL, MySQL, Power BI, DAX, Excel, exploratory data analysis, KPI design
+- **Web and development:** PHP, JavaScript, HTML, CSS, Git, GitHub, VS Code
+- **Methods:** Classification, time-series analysis, customer segmentation, RFM analysis, ETL, window functions, dashboard storytelling
 
 ## Featured Work
 

@@ -81,6 +81,18 @@ I am a data-focused developer who enjoys turning messy datasets and practical bu
 <a href="https://github.com/HARSHjain170/Stock-Price-Prediction">View project →</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>F1 Race Intelligence Analytics</h3>
+<p>Live championship intelligence, podium prediction, undercut simulation, tire-stint degradation analysis, and interactive strategy outputs.</p>
+<a href="https://github.com/HARSHjain170/f1-race-intelligence-analytics">View project →</a>
+</td>
+<td width="50%" valign="top">
+<h3>Open-Source Contribution</h3>
+<p>Advanced scenario sensitivity, strategy robustness heatmaps, and telemetry-derived tire pace analytics contributed to the F1 project.</p>
+<a href="https://github.com/DhyeyTeraiya/f1-race-intelligence-analytics/pull/10">View contribution →</a>
+</td>
+</tr>
 </table>
 
 ## More Projects

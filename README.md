@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" alt="Animated 3D-style data science dashboard hero" width="100%" />
+<img src="./assets/hero.gif" alt="Minimal animated data science profile hero" width="100%" />
 
 # Hi, I'm Harsh Jain
 
@@ -94,10 +94,6 @@ I transform data into **actionable insights, predictive models, and business-rea
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHjain170&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=9BB0C1)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=HARSHjain170&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF)
-
-### 3D Contribution Galaxy
-
-<img src="https://github-profile-3d-contrib.vercel.app/profile?username=HARSHjain170" alt="3D GitHub contribution profile" width="100%" />
 
 </div>
 

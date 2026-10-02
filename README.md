@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/harsh-jain017/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:harshjain17074@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/12-24292F?style=for-the-badge&logo=github&logoColor=white" alt="12 repositories" /></a>
+  <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/11%2B-24292F?style=for-the-badge&logo=github&logoColor=white" alt="11 plus repositories" /></a>
   <a href="https://www.google.com/maps/search/?api=1&query=Ahmedabad%2C%20India"><img src="https://img.shields.io/badge/AHMEDABAD%2C%20INDIA-0A84D6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ahmedabad, India" /></a>
 </p>
 

@@ -13,6 +13,7 @@
   <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/11%2B-24292F?style=for-the-badge&logo=github&logoColor=white" alt="11 plus repositories" /></a>
   <a href="https://www.google.com/maps/search/?api=1&query=Ahmedabad%2C%20India"><img src="https://img.shields.io/badge/AHMEDABAD%2C%20INDIA-0A84D6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ahmedabad, India" /></a>
 </p>
+<p><strong>Currently:</strong> Data Science Intern @ Deets Digital</p>
 
 </div>
 

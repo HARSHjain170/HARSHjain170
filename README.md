@@ -20,7 +20,6 @@
 
 I am a data-focused developer who enjoys turning messy datasets and practical business questions into clear, useful solutions. My work brings together exploratory analysis, predictive modeling, SQL problem-solving, dashboard design, and the discipline of documenting results so that insights can be understood and acted on.
 
-- Experience includes demand forecasting and inventory analytics work at Deets Digital.
 - Previously worked as a **Front-End Developer at Potenz Technology**, where I built responsive interfaces and improved user experiences across client projects.
 - Pursuing an **MCA at G.L.S. University, Ahmedabad**, after completing a BCA from Gujarat University.
 - Ranked **1st in my batch** in a Data Science certification program at Fly the Nest, Ahmedabad.

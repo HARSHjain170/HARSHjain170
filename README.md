@@ -13,6 +13,7 @@
   <a href="https://github.com/HARSHjain170?tab=repositories"><img src="https://img.shields.io/badge/11%2B-24292F?style=for-the-badge&logo=github&logoColor=white" alt="11 plus repositories" /></a>
   <a href="https://www.google.com/maps/search/?api=1&query=Ahmedabad%2C%20India"><img src="https://img.shields.io/badge/AHMEDABAD%2C%20INDIA-0A84D6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ahmedabad, India" /></a>
 </p>
+<p><strong>Currently:</strong> Data Science Intern @ Deets Digital</p>
 
 </div>
 
@@ -20,6 +21,7 @@
 
 I am a data-focused developer who enjoys turning messy datasets and practical business questions into clear, useful solutions. My work brings together exploratory analysis, predictive modeling, SQL problem-solving, dashboard design, and the discipline of documenting results so that insights can be understood and acted on.
 
+- Currently working as a **Data Science Intern at Deets Digital**, contributing to demand forecasting and inventory analytics.
 - Previously worked as a **Front-End Developer at Potenz Technology**, where I built responsive interfaces and improved user experiences across client projects.
 - Pursuing an **MCA at G.L.S. University, Ahmedabad**, after completing a BCA from Gujarat University.
 - Ranked **1st in my batch** in a Data Science certification program at Fly the Nest, Ahmedabad.
